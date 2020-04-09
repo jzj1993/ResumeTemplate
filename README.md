@@ -2,6 +2,8 @@
 
 简易的Markdown中英文简历模板，适合有一定动手能力的人使用。
 
+相关文章：[技术岗位如何写简历](https://www.paincker.com/how-to-write-a-resume)
+
 ## 效果展示
 
 生成PDF简历，效果如下。
